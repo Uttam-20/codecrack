@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codecrack/static/css/main.65f5b36e.css",
+    "main.js": "/codecrack/static/js/main.96d1bf8e.js",
+    "index.html": "/codecrack/index.html",
+    "main.65f5b36e.css.map": "/codecrack/static/css/main.65f5b36e.css.map",
+    "main.96d1bf8e.js.map": "/codecrack/static/js/main.96d1bf8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65f5b36e.css",
+    "static/js/main.96d1bf8e.js"
+  ]
+}
